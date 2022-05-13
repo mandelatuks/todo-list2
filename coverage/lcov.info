@@ -1,5 +1,5 @@
 TN:
-SF:src/modules/add-elem.js
+SF:src\modules\add-elem.js
 FN:3,(anonymous_0)
 FN:6,(anonymous_1)
 FNF:2
@@ -20,7 +20,7 @@ BRF:2
 BRH:1
 end_of_record
 TN:
-SF:src/modules/class-task-list.js
+SF:src\modules\class-task-list.js
 FN:7,(anonymous_0)
 FN:13,(anonymous_1)
 FN:21,(anonymous_2)
@@ -109,7 +109,7 @@ BRF:14
 BRH:8
 end_of_record
 TN:
-SF:src/modules/class-task.js
+SF:src\modules\class-task.js
 FN:2,(anonymous_0)
 FNF:1
 FNH:1
@@ -124,7 +124,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:src/modules/local-storage-checker.js
+SF:src\modules\local-storage-checker.js
 FN:2,(anonymous_0)
 FNF:1
 FNH:1
@@ -150,7 +150,7 @@ BRF:7
 BRH:0
 end_of_record
 TN:
-SF:src/modules/refresh-list.js
+SF:src\modules\refresh-list.js
 FN:5,(anonymous_0)
 FN:8,(anonymous_1)
 FN:29,(anonymous_2)
