@@ -34,7 +34,7 @@ export default class TaskList {
       this.data.push(taskObj);
       localStorage.setItem(storageName, JSON.stringify(this.data));
 
-      this.id += 1;
+      this.id +== 1;
     }
   }
 
